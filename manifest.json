@@ -1,4 +1,10 @@
 {
+ "name": "Cavalcanti Imports - Tour Virtual 360°",
+ "start_url": "index.htm",
+ "description": "Av. Giovanni Gronchi, 2705 - Morumbi, São Paulo - SP, 06859-490",
+ "theme_color": "#000000",
+ "display": "fullscreen",
+ "background_color": "#000000",
  "icons": [
   {
    "type": "image/png",
@@ -35,11 +41,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "background_color": "#000000",
- "name": "Cavalcanti Imports - Tour Virtual 360°",
- "description": "Av. Giovanni Gronchi, 2705 - Morumbi, São Paulo - SP, 06859-490",
- "display": "fullscreen",
- "theme_color": "#000000",
- "start_url": "index.htm"
+ ]
 }
